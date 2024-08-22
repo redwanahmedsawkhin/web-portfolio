@@ -1,0 +1,55 @@
+body{
+  margin:0px;
+.name-highlight{
+  color:orange;
+  background-repeat: no-repeat;
+}
+.half-width{
+  width: 40% ;
+  margin-left: 5%;
+  padding-left: 2%;
+  background-repeat: no-repeat;
+}
+.half-width img{
+ width: 300px;
+ margin-left: 10%;
+ background-repeat: no-repeat;
+ height:50%;
+  
+}
+.top-banner{
+  background-image: url("Images/top-banner.png");
+  background-repeat: no-repeat;
+}
+.button{
+  text-decoration: none;
+  background-image: linear-gradient( lightSalmon,tomato);
+  background-color: orange;
+  padding: 10px 15px;
+  border-radius: 5px ;
+  color:white;
+  font-weight:bold;
+}
+  section{
+height: 500px;
+background-image: url("Images/12.png");
+align-self: auto;
+right: inherit;
+left: 10%;
+background-repeat: no-repeat;
+  }
+  h1{
+    font-size:50px;
+  }
+  h2{
+    font-size:40px;
+  }
+  p{
+    font-weight: 200%;
+  }
+  .single-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height:80%;
+  }
+}
